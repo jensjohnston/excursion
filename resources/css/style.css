@@ -1,0 +1,15 @@
+.rubriker{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  position: center;
+}
+ a {
+  color:Aquamarine;
+  font-size: 16px;
+}
+body{
+  background: black;
+  text-align: center;
+}
